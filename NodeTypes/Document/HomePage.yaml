@@ -1,0 +1,25 @@
+'Litespeed.Agora:Document.HomePage':
+  superTypes:
+    'Litespeed.Theme:Document.HomePage': true
+    'Litespeed.Theme:Mixin.ScollIndicator': true
+  constraints:
+    nodeTypes:
+      'Litespeed.Agora:Document.ContentPage': true
+      'Litespeed.Agora:Document.DataPrivacy': true
+      'Litespeed.Agora:Document.NotFound': true
+      'Litespeed.Agora:Document.ImageDirectory': true
+      'Litespeed.Agora:Document.Meta': true
+      'Litespeed.Agora:Document.Lightbox': true
+      'Litespeed.Agora:Document.Shortcut': true
+  childNodes:
+    imprint:
+      type: 'Litespeed.Agora:Document.Meta'
+    privacy:
+      type: 'Litespeed.Agora:Document.DataPrivacy'
+      position: 'after imprint'
+    notfound:
+      type: 'Litespeed.Agora:Document.NotFound'
+      position: 'after privacy'
+    imagedirectory:
+      type: 'Litespeed.Agora:Document.ImageDirectory'
+      position: 'after notfound'

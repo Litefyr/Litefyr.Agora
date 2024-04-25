@@ -1,0 +1,3 @@
+'Litespeed.Agora:Document.ImageDirectory':
+  superTypes:
+    'Litespeed.Theme:Document.ImageDirectory': true

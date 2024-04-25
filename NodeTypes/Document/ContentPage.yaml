@@ -1,0 +1,10 @@
+'Litespeed.Agora:Document.ContentPage':
+  superTypes:
+    'Litespeed.Theme:Document.ContentPage': true
+    'Litespeed.Theme:Mixin.ScollIndicator': true
+  constraints:
+    nodeTypes:
+      'Litespeed.Agora:Document.ContentPage': true
+      'Litespeed.Agora:Document.Meta': true
+      'Litespeed.Agora:Document.Lightbox': true
+      'Litespeed.Agora:Document.Shortcut': true

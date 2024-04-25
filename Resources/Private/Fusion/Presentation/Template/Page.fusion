@@ -1,0 +1,24 @@
+prototype(Litespeed.Agora:Template.Page) < prototype(Neos.Fusion:Component) {
+    notification = ${null}
+    header = ${null}
+    footer = ${null}
+    scrollIndicator = ${null}
+
+    asideAttributes = Neos.Fusion:DataStructure
+
+    hero = ${null}
+    content = ${null}
+    aside = ${null}
+
+    renderer = afx`
+        {props.header}
+        {props.notification}
+        {props.hero}
+        {props.content}
+        <aside @if={props.aside} {...props.asideAttributes}>
+            {props.aside}
+        </aside>
+        {props.footer}
+        {props.scrollIndicator}
+    `
+}

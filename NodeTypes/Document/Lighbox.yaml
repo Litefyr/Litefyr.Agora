@@ -1,0 +1,3 @@
+'Litespeed.Agora:Document.Lightbox':
+  superTypes:
+    'Litespeed.Theme:Document.Lightbox': true

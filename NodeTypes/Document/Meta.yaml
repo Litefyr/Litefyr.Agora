@@ -1,0 +1,4 @@
+'Litespeed.Agora:Document.Meta':
+  superTypes:
+    'Litespeed.Theme:Document.Meta': true
+    'Litespeed.Theme:Mixin.ScollIndicator': true

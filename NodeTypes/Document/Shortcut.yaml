@@ -1,0 +1,10 @@
+'Litespeed.Agora:Document.Shortcut':
+  superTypes:
+    'Neos.Neos:Shortcut': true
+    'Litespeed.Theme:Constraint.Document.Restricted': true
+  constraints:
+    nodeTypes:
+      'Litespeed.Agora:Document.ContentPage': true
+      'Litespeed.Agora:Document.Meta': true
+      'Litespeed.Agora:Document.Shortcut': true
+      'Litespeed.Agora:Document.Lightbox': true

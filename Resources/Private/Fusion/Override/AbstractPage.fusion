@@ -1,0 +1,3 @@
+prototype(Litespeed.Theme:Document.AbstractPage) {
+    bodyRenderer = 'Litespeed.Agora:Template.Page'
+}

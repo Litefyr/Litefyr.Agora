@@ -1,0 +1,3 @@
+'Litespeed.Agora:Document.DataPrivacy':
+  superTypes:
+    'Litespeed.Theme:Document.DataPrivacy': true
