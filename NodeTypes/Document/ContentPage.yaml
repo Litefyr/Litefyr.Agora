@@ -1,7 +1,7 @@
 'Litespeed.Agora:Document.ContentPage':
   superTypes:
-    'Litespeed.Theme:Document.ContentPage': true
-    'Litespeed.Theme:Mixin.ScollIndicator': true
+    'Litespeed.Integration:Document.ContentPage': true
+    'Litespeed.Integration:Mixin.ScollIndicator': true
   constraints:
     nodeTypes:
       'Litespeed.Agora:Document.ContentPage': true
