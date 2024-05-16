@@ -1,3 +1,3 @@
-prototype(Litespeed.Integration:Document.AbstractPage) {
-    bodyRenderer = 'Litespeed.Agora:Template.Page'
+prototype(Litefyr.Integration:Document.AbstractPage) {
+    bodyRenderer = 'Litefyr.Agora:Template.Page'
 }

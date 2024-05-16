@@ -1,25 +1,25 @@
-'Litespeed.Agora:Document.HomePage':
+'Litefyr.Agora:Document.HomePage':
   superTypes:
-    'Litespeed.Integration:Document.HomePage': true
-    'Litespeed.Integration:Mixin.ScollIndicator': true
+    'Litefyr.Integration:Document.HomePage': true
+    'Litefyr.Integration:Mixin.ScollIndicator': true
   constraints:
     nodeTypes:
-      'Litespeed.Agora:Document.ContentPage': true
-      'Litespeed.Agora:Document.DataPrivacy': true
-      'Litespeed.Agora:Document.NotFound': true
-      'Litespeed.Agora:Document.ImageDirectory': true
-      'Litespeed.Agora:Document.Meta': true
-      'Litespeed.Agora:Document.Lightbox': true
-      'Litespeed.Agora:Document.Shortcut': true
+      'Litefyr.Agora:Document.ContentPage': true
+      'Litefyr.Agora:Document.DataPrivacy': true
+      'Litefyr.Agora:Document.NotFound': true
+      'Litefyr.Agora:Document.ImageDirectory': true
+      'Litefyr.Agora:Document.Meta': true
+      'Litefyr.Agora:Document.Lightbox': true
+      'Litefyr.Agora:Document.Shortcut': true
   childNodes:
     imprint:
-      type: 'Litespeed.Agora:Document.Meta'
+      type: 'Litefyr.Agora:Document.Meta'
     privacy:
-      type: 'Litespeed.Agora:Document.DataPrivacy'
+      type: 'Litefyr.Agora:Document.DataPrivacy'
       position: 'after imprint'
     notfound:
-      type: 'Litespeed.Agora:Document.NotFound'
+      type: 'Litefyr.Agora:Document.NotFound'
       position: 'after privacy'
     imagedirectory:
-      type: 'Litespeed.Agora:Document.ImageDirectory'
+      type: 'Litefyr.Agora:Document.ImageDirectory'
       position: 'after notfound'

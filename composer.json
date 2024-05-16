@@ -1,19 +1,19 @@
 {
-  "name" : "lspeed/agora",
-  "description": "Site package for the Litespeed marketing site",
+  "name" : "litefyr/agora",
+  "description": "Site package for the Litefyr marketing site",
   "type" : "neos-site",
   "license": "GPL-3.0-or-later",
   "require" : {
-    "lspeed/integration" : "self.version"
+    "litefyr/integration" : "self.version"
   },
   "autoload" : {
     "psr-4" : {
-      "Litespeed\\Agora\\" : "Classes/"
+      "Litefyr\\Agora\\" : "Classes/"
     }
   },
   "keywords": [
       "flow",
       "neos",
-      "litespeed"
+      "litefyr"
   ]
 }

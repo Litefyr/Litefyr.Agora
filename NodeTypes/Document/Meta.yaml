@@ -1,4 +1,4 @@
-'Litespeed.Agora:Document.Meta':
+'Litefyr.Agora:Document.Meta':
   superTypes:
-    'Litespeed.Integration:Document.Meta': true
-    'Litespeed.Integration:Mixin.ScollIndicator': true
+    'Litefyr.Integration:Document.Meta': true
+    'Litefyr.Integration:Mixin.ScollIndicator': true

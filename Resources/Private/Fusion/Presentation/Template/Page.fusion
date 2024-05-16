@@ -1,4 +1,4 @@
-prototype(Litespeed.Agora:Template.Page) < prototype(Neos.Fusion:Component) {
+prototype(Litefyr.Agora:Template.Page) < prototype(Neos.Fusion:Component) {
     notification = ${null}
     header = ${null}
     footer = ${null}

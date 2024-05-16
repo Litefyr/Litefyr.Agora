@@ -1,10 +1,10 @@
-'Litespeed.Agora:Document.ContentPage':
+'Litefyr.Agora:Document.ContentPage':
   superTypes:
-    'Litespeed.Integration:Document.ContentPage': true
-    'Litespeed.Integration:Mixin.ScollIndicator': true
+    'Litefyr.Integration:Document.ContentPage': true
+    'Litefyr.Integration:Mixin.ScollIndicator': true
   constraints:
     nodeTypes:
-      'Litespeed.Agora:Document.ContentPage': true
-      'Litespeed.Agora:Document.Meta': true
-      'Litespeed.Agora:Document.Lightbox': true
-      'Litespeed.Agora:Document.Shortcut': true
+      'Litefyr.Agora:Document.ContentPage': true
+      'Litefyr.Agora:Document.Meta': true
+      'Litefyr.Agora:Document.Lightbox': true
+      'Litefyr.Agora:Document.Shortcut': true
