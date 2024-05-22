@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <site name="Litefyr" state="1" siteResourcesPackageKey="Litefyr.Agora" siteNodeName="litefyr">
+  <nodes formatVersion="2.0">
+   <node identifier="cb1b7c16-256f-4ebf-a70f-704a05e5c31c" nodeName="litefyr">
+    <variant sortingIndex="100" workspace="live" nodeType="Litefyr.Agora:Document.HomePage" version="2" removed="" hidden="" hiddenInIndex="">
+     <dimensions/>
+     <accessRoles __type="array"/>
+     <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:26+02:00</creationDateTime>
+     <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:46:00+02:00</lastModificationDateTime>
+     <lastPublicationDateTime __type="object" __classname="DateTime">2024-05-16T23:46:00+02:00</lastPublicationDateTime>
+     <properties>
+      <uriPathSegment __type="string">index</uriPathSegment>
+      <socialNetworks __type="array"/>
+      <socialShare __type="object" __classname="Mireo\RepeatableFields\Model\Repeatable" __encoding="json">[{&quot;action&quot;:&quot;native&quot;},{&quot;action&quot;:&quot;facebook&quot;},{&quot;action&quot;:&quot;mastodon&quot;},{&quot;action&quot;:&quot;x&quot;},{&quot;action&quot;:&quot;linkedin&quot;},{&quot;action&quot;:&quot;xing&quot;},{&quot;action&quot;:&quot;email&quot;},{&quot;action&quot;:&quot;copy&quot;}]</socialShare>
+      <themeColorScheme __type="string">light</themeColorScheme>
+      <themeClipPathEnabled __type="boolean"></themeClipPathEnabled>
+      <themeCSS __type="string">@font-face{font-family:Inter;font-weight:100 900;font-display:swap;font-style:normal;src: url(&quot;/_Resources/Static/Packages/Litefyr.Style/Fonts/Inter.woff2&quot;) format(&quot;woff2&quot;)}[data-theme=&quot;default&quot;],:where(body),:is([data-theme=&quot;inverted&quot;] [data-theme=&quot;nested&quot;]){--color-back-l:0.98415;--color-back-c:0.00341;--color-back-h:247.86;--color-front-l:0.1288;--color-front-c:0.0406;--color-front-h:264.7;--color-accent-l:0.59081;--color-accent-c:0.17117;--color-accent-h:134.54;}[data-theme=&quot;inverted&quot;]{--color-back-l:0.1288;--color-back-c:0.0406;--color-back-h:264.7;--color-front-l:0.98415;--color-front-c:0.00341;--color-front-h:247.86;--color-accent-l:0.59081;--color-accent-c:0.17117;--color-accent-h:134.54;}[data-theme=&quot;main&quot;],:is([data-theme=&quot;default&quot;],[data-theme=&quot;minor&quot;],[data-theme=&quot;minor2&quot;],[data-theme=&quot;gray&quot;]) [data-theme=&quot;nested&quot;]{--color-back-l:0.59081;--color-back-c:0.17117;--color-back-h:134.54;--color-front-l:0.999999;--color-front-c:0.17117;--color-front-h:134.54;--color-accent-l:1;--color-accent-c:0;--color-accent-h:0;}[data-theme=&quot;minor&quot;],:is([data-theme=&quot;main&quot;] [data-theme=&quot;nested&quot;]){--color-back-l:0.4703;--color-back-c:0.21723;--color-back-h:291.82;--color-front-l:0.999999;--color-front-c:0.21723;--color-front-h:291.82;--color-accent-l:1;--color-accent-c:0;--color-accent-h:0;}[data-theme=&quot;minor2&quot;]{--color-back-l:0.58097;--color-back-c:0.13746;--color-back-h:241.84;--color-front-l:0.999999;--color-front-c:0.13746;--color-front-h:241.84;--color-accent-l:1;--color-accent-c:0;--color-accent-h:0;}[data-theme=&quot;gray&quot;]{--color-back-l:0.92876;--color-back-c:0.01262;--color-back-h:255.51;--color-front-l:0.3;--color-front-c:0.01262;--color-front-h:255.51;--color-accent-l:0;--color-accent-c:0;--color-accent-h:0;}[data-theme=&quot;footer&quot;]{--color-back-l:0.92876;--color-back-c:0.01262;--color-back-h:255.51;--color-front-l:0.3;--color-front-c:0.01262;--color-front-h:255.51;--color-accent-l:0;--color-accent-c:0;--color-accent-h:0;}:root{--font-main:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';--font-main--feature:normal;--font-main--variation:&quot;slnt&quot; 0;--font-weight-main:400;--font-weight-main-bold:700;color-scheme:light;--color-theme-light:#4d9200;--rounded-box:0rem;--rounded-image:0rem;--rounded-button:0rem;--round-scroller:1;--rounded-scroller:9999px;--logo-size:2rem;--logo-size-content:37.5rem;}.theme-hr{border:none;min-height:1px;color:currentColor}.theme-hr::before{content:&quot;&quot;;display:block;height:1px;background:currentColor}.theme-hr[data-theme]{color:oklch(var(--color-back-l) var(--color-back-c) var(--color-back-h))}.theme-hr[data-theme]::before{opacity:.4}</themeCSS>
+      <themeCSSHash __type="string">dae9c074</themeCSSHash>
+      <themeBackendCSS __type="string">:root{--color-theme-back:oklch(98.415% 0.00341 247.86);--color-theme-front:oklch(12.88% 0.0406 264.7);--color-theme-main:oklch(59.081% 0.17117 134.54);--color-theme-minor:oklch(47.03% 0.21723 291.82);--color-theme-minor2:oklch(58.097% 0.13746 241.84);--color-theme-gray:oklch(92.876% 0.01262 255.51);--color-theme-footer:oklch(92.876% 0.01262 255.51);}</themeBackendCSS>
+      <themeWebmanifestThemeColor __type="string">#4d9200</themeWebmanifestThemeColor>
+      <themeHeaderMarkup __type="string">&lt;link rel=&quot;preload&quot; href=&quot;/_Resources/Static/Packages/Litefyr.Style/Fonts/Inter.woff2&quot; as=&quot;font&quot; type=&quot;font/woff2&quot; crossorigin&gt;</themeHeaderMarkup>
+      <themeLogoData __type="array">
+       <entryhtml __type="string"></entryhtml>
+      </themeLogoData>
+      <themeLogoSizeInContent __type="integer">600</themeLogoSizeInContent>
+      <themeLogoDataContent __type="array">
+       <entryhtml __type="string"></entryhtml>
+      </themeLogoDataContent>
+      <themeHeaderGap __type="integer">16</themeHeaderGap>
+      <themeLogoSize __type="integer">40</themeLogoSize>
+      <themeLogoMarginTop __type="integer">16</themeLogoMarginTop>
+      <themeLogoMarginBottom __type="integer">16</themeLogoMarginBottom>
+      <themeFooterSpacing __type="integer">32</themeFooterSpacing>
+      <themeLogoHeightInFooter __type="integer">40</themeLogoHeightInFooter>
+      <themeClipPathInContent __type="boolean">1</themeClipPathInContent>
+      <themeClipPathAboveFooter __type="boolean">1</themeClipPathAboveFooter>
+      <themeRoundedBox __type="integer">0</themeRoundedBox>
+      <themeRoundedImage __type="integer">0</themeRoundedImage>
+      <themeRoundedButton __type="integer">0</themeRoundedButton>
+      <themeHrSoft __type="integer">0</themeHrSoft>
+      <themeHrImageSize __type="integer">50</themeHrImageSize>
+      <themeHrImagePosition __type="string">center</themeHrImagePosition>
+      <themeScrollIndicatorMarkup __type="array">
+       <entryhtml __type="string"></entryhtml>
+      </themeScrollIndicatorMarkup>
+      <themeScrollIndicatorTheme __type="string">default</themeScrollIndicatorTheme>
+      <themeScrollIndicatorSize __type="integer">34</themeScrollIndicatorSize>
+      <themeScrollIndicatorBackground __type="boolean">1</themeScrollIndicatorBackground>
+      <themeScrollIndicatorRounded __type="integer">26</themeScrollIndicatorRounded>
+      <typeOfContact __type="string">group</typeOfContact>
+      <salutation __type="string">formal</salutation>
+      <legalItems __type="array"/>
+      <footerNavigationMultiColumn __type="array"/>
+      <scrollIndicatorBottom __type="integer">1</scrollIndicatorBottom>
+      <scrollIndicatorHideAfter __type="integer">20</scrollIndicatorHideAfter>
+      <scrollIndicatorScrollAmount __type="integer">80</scrollIndicatorScrollAmount>
+      <title __type="string">Litefyr</title>
+      <themeColorLightBackground __type="array">
+       <entrygroup __type="string">slate</entrygroup>
+       <entrystrength __type="integer">50</entrystrength>
+       <entryhex __type="string">#f8fafc</entryhex>
+       <entryrgb __type="string">rgb(248 250 252)</entryrgb>
+       <entryhsl __type="string">hsl(210 40% 98%)</entryhsl>
+       <entryrgbValues __type="string">248 250 252</entryrgbValues>
+       <entryhslValues __type="string">210 40% 98%</entryhslValues>
+      </themeColorLightBackground>
+      <themeColorLightText __type="array">
+       <entrygroup __type="string">slate</entrygroup>
+       <entrystrength __type="integer">950</entrystrength>
+       <entryhex __type="string">#020617</entryhex>
+       <entryrgb __type="string">rgb(2 6 23)</entryrgb>
+       <entryhsl __type="string">hsl(229 84% 4.9%)</entryhsl>
+       <entryrgbValues __type="string">2 6 23</entryrgbValues>
+       <entryhslValues __type="string">229 84% 4.9%</entryhslValues>
+      </themeColorLightText>
+      <themeColorLightMain __type="array">
+       <entryhex __type="string">#4d9200</entryhex>
+       <entryoklch __type="string">oklch(59.081% 0.17117 134.54)</entryoklch>
+       <entrycoords __type="array">
+        <entryl __type="double">0.59081</entryl>
+        <entryc __type="double">0.17117</entryc>
+        <entryh __type="double">134.54</entryh>
+       </entrycoords>
+       <entrycustomProperty __type="array">
+        <entrycoords __type="string">--color-l:0.59081;--color-c:0.17117;--color-h:134.54;</entrycoords>
+        <entryoklch __type="string">--color:oklch(59.081% 0.17117 134.54);</entryoklch>
+        <entryhex __type="string">--color:#4d9200;</entryhex>
+       </entrycustomProperty>
+      </themeColorLightMain>
+      <themeColorLightMinor __type="array">
+       <entryhex __type="string">#642ec7</entryhex>
+       <entryoklch __type="string">oklch(47.03% 0.21723 291.82)</entryoklch>
+       <entrycoords __type="array">
+        <entryl __type="double">0.4703</entryl>
+        <entryc __type="double">0.21723</entryc>
+        <entryh __type="double">291.82</entryh>
+       </entrycoords>
+       <entrycustomProperty __type="array">
+        <entrycoords __type="string">--color-l:0.4703;--color-c:0.21723;--color-h:291.82;</entrycoords>
+        <entryoklch __type="string">--color:oklch(47.03% 0.21723 291.82);</entryoklch>
+        <entryhex __type="string">--color:#642ec7;</entryhex>
+       </entrycustomProperty>
+      </themeColorLightMinor>
+      <themeColorLightMinor2 __type="array">
+       <entryhex __type="string">#0082c4</entryhex>
+       <entryoklch __type="string">oklch(58.097% 0.13746 241.84)</entryoklch>
+       <entrycoords __type="array">
+        <entryl __type="double">0.58097</entryl>
+        <entryc __type="double">0.13746</entryc>
+        <entryh __type="double">241.84</entryh>
+       </entrycoords>
+       <entrycustomProperty __type="array">
+        <entrycoords __type="string">--color-l:0.58097;--color-c:0.13746;--color-h:241.84;</entrycoords>
+        <entryoklch __type="string">--color:oklch(58.097% 0.13746 241.84);</entryoklch>
+        <entryhex __type="string">--color:#0082c4;</entryhex>
+       </entrycustomProperty>
+      </themeColorLightMinor2>
+      <themeFontMain __type="array">
+       <entryfont __type="string">Inter</entryfont>
+       <entryuserSettings __type="array">
+        <entryfont __type="string">Inter</entryfont>
+        <entryvariable __type="boolean">1</entryvariable>
+        <entryfontVariationSettings __type="array">
+         <entryslnt __type="integer">0</entryslnt>
+        </entryfontVariationSettings>
+        <entryfontFeatureSettings __type="array"/>
+        <entryfontWeight __type="array">
+         <entrynormal __type="integer">400</entrynormal>
+         <entrybold __type="integer">700</entrybold>
+        </entryfontWeight>
+       </entryuserSettings>
+       <entrystyle __type="array">
+        <entrynormal __type="array">
+         <entryfontFamily __type="string">Inter</entryfontFamily>
+         <entryfontWeight __type="integer">400</entryfontWeight>
+         <entryfontFeatureSettings __type="string">normal</entryfontFeatureSettings>
+         <entryfontVariationSettings __type="string">&quot;slnt&quot; 0</entryfontVariationSettings>
+        </entrynormal>
+        <entrybold __type="array">
+         <entryfontWeight __type="integer">700</entryfontWeight>
+        </entrybold>
+       </entrystyle>
+      </themeFontMain>
+     </properties>
+    </variant>
+    <node identifier="53151af0-5ee0-2a87-045a-3aca7ba97ab4" nodeName="imagedirectory">
+     <variant sortingIndex="700" workspace="live" nodeType="Litefyr.Agora:Document.ImageDirectory" version="1" removed="" hidden="" hiddenInIndex="1">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+      <properties>
+       <uriPathSegment __type="string">bildverzeichnis</uriPathSegment>
+       <title __type="string">Bildverzeichnis</title>
+       <imageDirectoryPrefixCopyright __type="string">©</imageDirectoryPrefixCopyright>
+       <imageDirectoryImageWidth __type="integer">200</imageDirectoryImageWidth>
+       <sortBy __type="string">documents</sortBy>
+      </properties>
+     </variant>
+    </node>
+    <node identifier="2935d28d-8b9e-6abc-366b-91b37cae3a62" nodeName="imprint">
+     <variant sortingIndex="200" workspace="live" nodeType="Litefyr.Agora:Document.Meta" version="2" removed="" hidden="" hiddenInIndex="1">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:32:43+02:00</lastModificationDateTime>
+      <lastPublicationDateTime __type="object" __classname="DateTime">2024-05-16T23:32:43+02:00</lastPublicationDateTime>
+      <properties>
+       <uriPathSegment __type="string">impressum</uriPathSegment>
+       <scrollIndicatorBottom __type="integer">1</scrollIndicatorBottom>
+       <scrollIndicatorHideAfter __type="integer">20</scrollIndicatorHideAfter>
+       <scrollIndicatorScrollAmount __type="integer">80</scrollIndicatorScrollAmount>
+       <title __type="string">Impressum</title>
+      </properties>
+     </variant>
+     <node identifier="b1925acb-8210-b702-b845-dda8c8dbdd6c" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+       <dimensions/>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+       <properties/>
+      </variant>
+     </node>
+    </node>
+    <node identifier="f160f7ee-06df-6d73-5af5-459f4c9d843f" nodeName="main">
+     <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+      <properties/>
+     </variant>
+    </node>
+    <node identifier="feb0a326-576a-25e9-14f8-e19f0f019349" nodeName="notfound">
+     <variant sortingIndex="400" workspace="live" nodeType="Litefyr.Agora:Document.NotFound" version="1" removed="" hidden="" hiddenInIndex="1">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+      <properties>
+       <uriPathSegment __type="string">404</uriPathSegment>
+       <metaRobotsNoindex __type="boolean">1</metaRobotsNoindex>
+       <title __type="string">404</title>
+      </properties>
+     </variant>
+     <node identifier="fa761db2-9fdb-77ce-d34e-668a8240d1de" nodeName="main">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+       <dimensions/>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+       <properties/>
+      </variant>
+     </node>
+    </node>
+    <node identifier="f0b01670-b605-52fc-88a3-eabb5683f99e" nodeName="privacy">
+     <variant sortingIndex="300" workspace="live" nodeType="Litefyr.Agora:Document.DataPrivacy" version="1" removed="" hidden="" hiddenInIndex="1">
+      <dimensions/>
+      <accessRoles __type="array"/>
+      <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+      <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+      <properties>
+       <uriPathSegment __type="string">datenschutzerklaerung</uriPathSegment>
+       <title __type="string">Datenschutzerklärung</title>
+       <useDefaultDataPrivacy __type="boolean">1</useDefaultDataPrivacy>
+      </properties>
+     </variant>
+     <node identifier="7b41a77f-1339-707e-27fb-48e5274de09f" nodeName="before">
+      <variant sortingIndex="100" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+       <dimensions/>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+       <properties/>
+      </variant>
+     </node>
+     <node identifier="2c7ade11-3203-a596-f953-52d54a91d2df" nodeName="main">
+      <variant sortingIndex="200" workspace="live" nodeType="Neos.Neos:ContentCollection" version="1" removed="" hidden="" hiddenInIndex="">
+       <dimensions/>
+       <accessRoles __type="array"/>
+       <creationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</creationDateTime>
+       <lastModificationDateTime __type="object" __classname="DateTime">2024-05-16T23:31:27+02:00</lastModificationDateTime>
+       <properties/>
+      </variant>
+     </node>
+    </node>
+   </node>
+  </nodes>
+ </site>
+</root>
